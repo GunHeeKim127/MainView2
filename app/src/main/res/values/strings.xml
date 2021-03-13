@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MainView</string>
+    <string name="ask">드실 약을 찍어주세요.</string>
+    <string name="alam">10분 뒤 다시 알림</string>
+    <string name="Login">Login</string>
+    <string name="OK">로그안</string>
+    <string name="Cancle">취소</string>
+</resources>
